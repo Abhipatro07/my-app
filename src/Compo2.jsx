@@ -17,6 +17,9 @@ function print() {
             <label htmlFor="">Phone: </label>
             <input type="text" ref={phone} placeholder="Enter"/>
             <button onClick={print}>Submit</button>
+            <button>help
+                
+            </button>
         </div>       
 
     )
